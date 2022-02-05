@@ -11,7 +11,7 @@
 2. After Cell 4 you are able to run any queries you would like. All the tables are made and values are inserted.
 
 ## Files: 
-- create_tables.py 
+- sql_queries.py 
 - etl_POSTGRESQL.py 
 - etl_POSTGRESQL.ipynb 
 - data folder - full of the .json data
